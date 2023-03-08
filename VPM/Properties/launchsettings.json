@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "VPM (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "VPM (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
